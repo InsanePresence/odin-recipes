@@ -1,0 +1,45 @@
+.primary-header,
+.page-links,
+.secondary-header,
+.para {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+.primary-header,
+.secondary-header {
+  color: black;
+  font-weight: bolder;
+}
+.page-links {
+  color: blue;
+}
+.olist {
+  text-align: center;
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+.ulist {
+  text-align: center;
+  list-style-position: inside;
+}
+.ipizza {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+  width: 500px;
+}
+.ilasagna {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: 300px;
+}
+.icookie {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 345px;
+  width: 800px;
+}
